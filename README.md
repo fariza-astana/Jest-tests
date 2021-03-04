@@ -1,2 +1,2 @@
-# learn-js
-js examples for fast learning
+# Jest-tests
+Unit tests
